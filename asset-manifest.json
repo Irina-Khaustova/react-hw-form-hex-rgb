@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-hw-form-hex-rgb/static/css/main.7e3d4b1f.css",
+    "main.js": "/react-hw-form-hex-rgb/static/js/main.d1fb8eee.js",
+    "static/js/787.3cd6b84c.chunk.js": "/react-hw-form-hex-rgb/static/js/787.3cd6b84c.chunk.js",
+    "index.html": "/react-hw-form-hex-rgb/index.html",
+    "main.7e3d4b1f.css.map": "/react-hw-form-hex-rgb/static/css/main.7e3d4b1f.css.map",
+    "main.d1fb8eee.js.map": "/react-hw-form-hex-rgb/static/js/main.d1fb8eee.js.map",
+    "787.3cd6b84c.chunk.js.map": "/react-hw-form-hex-rgb/static/js/787.3cd6b84c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e3d4b1f.css",
+    "static/js/main.d1fb8eee.js"
+  ]
+}
